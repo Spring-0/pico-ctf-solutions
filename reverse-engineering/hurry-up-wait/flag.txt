@@ -1,0 +1,2 @@
+Solved by manually building the string through values found in Ghidra :(
+picoCTF{d15a5m_ftw_eab78e4}

@@ -1,0 +1,5 @@
+Appending strings found in source file together, and inputting into patchme to retrieve flag.
+
+Flag: picoCTF{p47ch1ng_l1f3_h4ck_f01eabfa} 
+Password: ak98-=90adfjhgj321sleuth9000
+

@@ -1,0 +1,4 @@
+picoCTF{num3r1cal_c0ntr0l_f3fea95b}
+
+1. Searched for what language cnc machines use. G-Code
+2. Searched for g-code simulators. Found NC Viewer. Pasted output, found flag.
