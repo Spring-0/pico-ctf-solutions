@@ -1,0 +1,2 @@
+Flag: picoCTF{48}
+Convert 0x30 to base 10.
